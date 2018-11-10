@@ -1,0 +1,58 @@
+.button {
+  background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button:hover {opacity: 1}
+button:hover
+{
+
+  border-radius: 30%;
+}
+header
+{
+  text-align: center;
+}
+.mega
+{
+  font-size: 32px;
+}
+body
+{
+  
+ /*padding-top: 170px; 
+height: 850px; 
+background: linear-gradient(#004092, #020202, transparent), url("img/cover.jpg") no-repeat center; 
+background-size: cover; 
+box-shadow: 0px 10px 20px -5px rgba(0,0,0,.8);
+   /*background-image: linear-gradient(to left, rgb(255, 1, 232), rgb(255, 102,0));*/
+
+}
+.container
+{
+  text-align: center;
+  border-style: outset;
+  width:50%;
+  margin:0 auto;
+  border-radius: 10px;
+  font-family: cursive;
+}
+
+
+form img
+{
+
+  margin-top: 0px;
+  border-radius: 30%;
+  height:300px; 
+}
